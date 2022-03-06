@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DeanArdern.
+- 👀 I’m interested in coding POCs.
+- 🌱 I’m currently learning how to make a hash generator and cracker.
+- 💞️ I’m looking to collaborate on my current project(s).
+- 📫 Reach me on Discord: Deano#2627
